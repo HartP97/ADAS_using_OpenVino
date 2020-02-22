@@ -20,3 +20,7 @@ Advanced Driver Assistance System (team-project) - developed for the Intel Edge 
 - Converting models to IR and applying them (…)
 - multithreading for the models, to increase execution time (…)
 - better text-recognition (very poor results, we only have one result that is actually displaying the right text)
+
+
+# Acknowledgments
+- Intel Edge AI Scholarship Challenge

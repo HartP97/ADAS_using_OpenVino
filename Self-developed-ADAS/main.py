@@ -11,7 +11,7 @@ from speed import getSpeed
 local_velocity = 0
 icon = cv2.imread("car.png")
 sign = cv2.imread("sign.png")
-#<div>Icons made by <a href="https://www.flaticon.com/authors/nikita-golubev" title="Nikita Golubev">Nikita Golubev</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+#Icons made by "Nikita Golubev" "https://www.flaticon.com/authors/nikita-golubev" from https://www.flaticon.com/"
 INPUT_STREAM = "input_vid.mp4"
 CPU_EXTENSION = "/opt/intel/openvino/deployment_tools/inference_engine/lib/intel64/libcpu_extension.dylib"
 

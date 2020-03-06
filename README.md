@@ -22,5 +22,6 @@ Advanced Driver Assistance System (team-project) - developed for the Intel Edge 
 - better text-recognition (very poor results, we only have one result that is actually displaying the right text)
 
 
-# Acknowledgments
+# Acknowledgments/Licenses
 - Intel Edge AI Scholarship Challenge
+- Car-Icon made by "Nikita Golubev" "https://www.flaticon.com/authors/nikita-golubev" from https://www.flaticon.com/"

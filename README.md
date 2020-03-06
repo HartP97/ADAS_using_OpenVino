@@ -23,6 +23,7 @@ Advanced Driver Assistance System (team-project) - developed for the Intel Edge 
 - better text-recognition (very poor results, we only have one result that is actually displaying the right text)
 
 ## Execution Instructions
+(Note: The project uses a 2019 version of OpenVino, which still has to include a CPU_EXTENSION directory to run, it is set by default for macOS, for other OS's it needs to be passed in the with input argument "-c")
 ### For macOS
 - clone or download the repository
 - if you have OpenVino installed with root permision, in your terminal run "sudo -i"

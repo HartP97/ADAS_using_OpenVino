@@ -1,11 +1,13 @@
 # ADAS_using_OpenVino
 Advanced Driver Assistance System (team-project) - developed for the Intel Edge AI Scholarshap @Udacity
 
-## Introduction
-[...]
-
 ## Motivation
-Making roads a safer place and ADAS available to the majority of people, not only to those who can’t afford a new Car with special and expensive addons.
+Making roads a safer place and ADAS available to the majority of people, not only to those who can’t afford a new Car with special and expensive addons.OpenVino offers a great opportunity as we can bring AI based analysis to the edge (for example inside a smartphone sized device mounted in your car and connected the cars board computer).
+
+## Our Mission
+- making driving safer and more convenient
+- bridging time until cars get fully autonomous and are affordable for the majority of people
+- making ADAS accessible for everyone in form of an Edge Device that can be plugged in to the board computer of your current car with no need to purchase a completely new car (most of the cars built after 2009 support that)
 
 ## Current Features
 - Car detection
@@ -18,26 +20,14 @@ Making roads a safer place and ADAS available to the majority of people, not onl
 
 ## Features we are currenlty working on
 - road sign detection, to also include for example warnings for Stop-signs
+- improvement of car-detection
 
 ## Planned Features
 - tracking of pedestrians, bikes etc. to the make the application more secure for urban usage
 - traffic-light detection to automatically break/accelerate
 - model-based lane-detection (in the future used to keep the lane)
-
-## Description
-[...]
-
-
-## To-Do
-- optimizing and cleaning up current state (make it stage ready for the showcase and easier to read for you and the judges) (@Patrick.Hartmann)
-- Weather detection (@Aarthi Alagammai)
-
-#### Open:
-- Sign detection for german highway, if we find a good dataset (…)
-- Improvement of car detection, because the current one from OpenVino is never detecting the car on the right lane (…)
-- Converting models to IR and applying them (…)
-- multithreading for the models, to increase execution time (…)
-- better text-recognition (very poor results, we only have one result that is actually displaying the right text)
+- constantly improve on accuracy and execution time
+- visualized roadsigns with text-detection
 
 ## Execution Instructions
 (Note: The project uses a 2019 version of OpenVino, which still has to include a CPU_EXTENSION directory to run, it is set by default for macOS, for other OS's it needs to be passed in the with input argument "-c")

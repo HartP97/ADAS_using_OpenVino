@@ -1,6 +1,7 @@
 # ADAS_using_OpenVino
 Advanced Driver Assistance System (team-project) - developed for the Intel Edge AI Scholarshap @Udacity
 
+## PLEASE CLICK for watching the Video
 [![example_output_vid](Self-developed-ADAS/output_example.png)](https://youtu.be/mfI0uvXCe48)
 
 ## Motivation

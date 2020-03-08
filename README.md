@@ -15,9 +15,9 @@ Making roads a safer place and ADAS available to the majority of people, not onl
 - **tracking distance to car in front of us**
 - based on speed and distance -> **calculating if minimum breaking distance is kept**
 - **Detection of blue direction signs** on german highways (to be replaced by a model-based sign detection in the near future)
-- **Weather detection** (will be used to increase the minimum breaking distance in case it is raining)[(Follow for detailed explanation)](ADAS_using_OpenVino/Weather_Classification)
+- **Weather detection** (will be used to increase the minimum breaking distance in case it is raining)[(Follow for detailed explanation)](Weather_Classification)
 - displaying lane-lines
-- **Emotion Detection of the driver** [(Follow for detailed explanation)](ADAS_using_OpenVino/DriverEmotionDetection)
+- **Emotion Detection of the driver** [(Follow for detailed explanation)](DriverEmotionDetection)
 
 ## Features we are currenlty working on
 - road sign detection, to also include for example warnings for Stop-signs

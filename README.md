@@ -1,8 +1,7 @@
 # ADAS_using_OpenVino
 Advanced Driver Assistance System (team-project) - developed for the Intel Edge AI Scholarshap @Udacity
 
-
-![output_example_image](Self-developed-ADAS/output_example.png)
+[![example_output_vid](Self-developed-ADAS/output_example.png)](https://youtu.be/mfI0uvXCe48)
 
 ## Motivation
 Making roads a safer place and ADAS available to the majority of people, not only to those who can’t afford a new Car with special and expensive addons with Intel Hardware and Software plotform.OpenVino offers a great opportunity as we can bring AI based analysis to the edge (for example inside a smartphone sized device mounted in your car and connected the cars board computer). OpenVINO also helps in quick deployment and polymorphism of some code on multiple devices like intel GPU,CPU and accelerators like HDDL and FPGA.

@@ -10,20 +10,20 @@ Making roads a safer place and ADAS available to the majority of people, not onl
 - making ADAS accessible for everyone in form of an Edge Device that can be plugged in to the board computer of your current car with no need to purchase a completely new car (most of the cars built after 2009 support that)
 
 ## Current Features
-- **Car detection**
-- **Tracking speed visually**
-- **tracking distance to car in front of us**
-- based on speed and distance -> **calculating if minimum breaking distance is kept**
-- **Detection of blue direction signs** on german highways (to be replaced by a model-based sign detection in the near future)
-- **Weather detection** (will be used to increase the minimum breaking distance in case it is raining)[(Follow for detailed explanation)](Weather_Classification)
-- displaying lane-lines
-- **Emotion Detection of the driver** [(Follow for detailed explanation)](DriverEmotionDetection)
+- [x] **Car detection**
+- [x] **Tracking speed visually**
+- [x] **tracking distance to car in front of us**
+- [x] based on speed and distance -> **calculating if minimum breaking distance is kept**
+- [x] **Detection of blue direction signs** on german highways (to be replaced by a model-based sign detection in the near future)
+- [x] **Weather detection** (will be used to increase the minimum breaking distance in case it is raining)[(Follow for detailed explanation)](Weather_Classification)
+- [x] displaying lane-lines
+- [x] **Emotion Detection of the driver** [(Follow for detailed explanation)](DriverEmotionDetection)
 
 ## Features we are currenlty working on
-- road sign detection, to also include for example warnings for Stop-signs
-- improvement of car-detection
-- To improve accuracy of drowsiness detection model  and FPS on MYRIAD.
-- Itegrate it with AWS/AZURE-ML deployment
+- [ ] road sign detection, to also include for example warnings for Stop-signs
+- [ ] improvement of car-detection
+- [ ] To improve accuracy of drowsiness detection model  and FPS on MYRIAD.
+- [ ] Itegrate it with AWS/AZURE-ML deployment
 
 ## Planned Features
 - tracking of pedestrians, bikes etc. to the make the application more secure for urban usage

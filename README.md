@@ -40,7 +40,7 @@ Making roads a safer place and ADAS available to the majority of people, not onl
 - if you have OpenVino installed with root permision, in your terminal run "sudo -i"
 - Source the OpenVino environment by executing following on your terminal: "source /opt/intel/openvino/bin/setupvars.sh"
 - In your terminal change the directory to the repository folder that contains main.py
-- run it better executing "python3 main.py -m frozen_inference_graph.xml
+- run it better executing "python3 main.py"
 
 ### For Windows
 - clone or download the repository
@@ -48,7 +48,7 @@ Making roads a safer place and ADAS available to the majority of people, not onl
 -  A window opens to let you choose your installation directory and components. The default installation directory is C:\Program Files (x86)\IntelSWTools\openvino_<version>, for simplicity, a shortcut to the latest installation is also created: "C:\Program Files (x86)\IntelSWTools\openvino"
 - Source the OpenVino environment by executing following on your terminal: "cd C:\Program Files (x86)\IntelSWTools\openvino\bin\" and "setupvars.bat"
 - In your terminal change the directory to the repository folder that contains main.py
-- run it better executing "python3 main.py -m frozen_inference_graph.xml
+- run it better executing "python3 main.py"
 
 
 

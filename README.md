@@ -3,6 +3,7 @@ Advanced Driver Assistance System (team-project) - developed for the Intel Edge 
 
 
 ## Please click [here](https://youtu.be/mfI0uvXCe48) or the image down below to watch the video
+We created this visualization to demonstrate what our ADAS is able to see/recognize of the road-scene.
 [![example_output_vid](Self-developed-ADAS/output_example.png)](https://youtu.be/mfI0uvXCe48)
 
 ## Motivation

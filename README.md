@@ -43,7 +43,7 @@ Making roads a safer place and ADAS available to the majority of people, not onl
 - clone or download the repository
 - if you have OpenVino installed with root permision, in your terminal run ```sudo -i```
 - Source the OpenVino environment by executing following on your terminal: ```source /opt/intel/openvino/bin/setupvars.sh```
-- In your terminal change the directory to the repository folder that contains main.py
+- In your terminal change the directory to the repository folder ```Self-developed-ADAS``` that contains main.py
 - run it better executing ```python3 main.py```
 
 ### For Windows
@@ -51,7 +51,7 @@ Making roads a safer place and ADAS available to the majority of people, not onl
 - OpenVINO Installation document for windows https://docs.openvinotoolkit.org/latest/_docs_install_guides_installing_openvino_windows.html
 -  A window opens to let you choose your installation directory and components. The default installation directory is C:\Program Files (x86)\IntelSWTools\openvino_<version>, for simplicity, a shortcut to the latest installation is also created: "C:\Program Files (x86)\IntelSWTools\openvino"
 - Source the OpenVino environment by executing following on your terminal: ```cd C:\Program Files (x86)\IntelSWTools\openvino\bin\``` and ```setupvars.bat```
-- In your terminal change the directory to the repository folder that contains main.py
+- In your terminal change the directory to the repository folder ```Self-developed-ADAS``` that contains main.py
 - run it better executing ```python3 main.py```
 
 

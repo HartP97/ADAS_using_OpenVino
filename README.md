@@ -20,7 +20,7 @@ Making roads a safer place and ADAS available to the majority of people, not onl
 - [x] **tracking distance to car in front of us**
 - [x] based on speed and distance -> **calculating if minimum breaking distance is kept**
 - [x] **Detection of blue direction signs** on german highways (to be replaced by a model-based sign detection in the near future)
-- [x] **Weather detection** (will be used to increase the minimum breaking distance in case it is raining)[(Follow for detailed explanation)](Weather_Classification)
+- [x] **Weather detection** (self-trained and converted to IR)(will be used to increase the minimum breaking distance in case it is raining)[(Follow for detailed explanation)](Weather_Classification)
 - [x] displaying lane-lines
 - [x] **Emotion Detection of the driver** [(Follow for detailed explanation)](DriverEmotionDetection)
 

@@ -55,7 +55,10 @@ Making roads a safer place and ADAS available to the majority of people, not onl
 - In your terminal change the directory to the repository folder ```Self-developed-ADAS``` that contains main.py
 - run it better executing ```python3 main.py```
 
-
+#### Optional command line parameters
+- ```-ct``` for the confidence threshold to use with the cars that get recognised
+- ```-d```  the device name, if not 'CPU' (Extension files might have to be added to the code if changed)
+- ```-i``` the location of the input file (not recommended as the area for detecting the lines is cropped specifically the input video we chose (as the position of a camera usually won't change inside a car))
 
 # Acknowledgments/Licenses
 - Intel Edge AI Scholarship Challenge

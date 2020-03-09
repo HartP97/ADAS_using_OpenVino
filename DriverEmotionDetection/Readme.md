@@ -2,6 +2,9 @@
 
 Driver drowsiness detection is a car safety technology which prevents accidents when the driver is getting drowsy. Various studies have suggested that around 20% of all road accidents are fatigue-related, up to 50% on certain roads. Driver fatigue is a significant factor in a large number of vehicle accidents. Recent statistics estimate that annually 1,200 deaths and 76,000 injuries can be attributed to fatigue related crashes. 
 
+## PLEASE CLICK [here](https://youtu.be/yXz26rTGm9U) or the image down below to watch the video
+[![example_output_vid](Self-developed-ADAS/output_example.png)](https://youtu.be/yXz26rTGm9U)
+
 # Existing System
 
 Here we are used SVM(support vector machine) to classify the components in the input video. While cropping the region of interest components in the video is not accurate. Sometimes it will show regions wrong. To sense the eyes first we have to create boundary boxes for that and a classification algorithm. The algorithm of SVM will not support.## Create files and folders
